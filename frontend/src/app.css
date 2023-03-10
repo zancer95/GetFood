@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.showDetails {
+    margin-top: -62px;
+}
+
+
+.map_container {
+    height: 92.5vh;
+    overflow-y: hidden;
+}
+
+.height_over {
+    height: 92.5vh;
+}
